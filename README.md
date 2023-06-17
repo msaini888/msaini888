@@ -1,4 +1,4 @@
-<div style="width: 800px; height: 400px; background-color: #f2f2f2; padding: 20px;">
+<div style="width: 1000px; height: 400px; background-color: #f2f2f2; padding: 20px;">
 
 ### Hi there 👋
 
