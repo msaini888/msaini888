@@ -5,7 +5,7 @@
 I'm Mohit Saini, a passionate Data Analyst who loves to create interesting insights from huge datasets. 
  
  ### Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=green&style=flat) &nbsp;|&nbsp; ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=blue&style=flat) &nbsp;|&nbsp; ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) &nbsp;|&nbsp; ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=python&logoColor=greene&style=flat) &nbsp;|&nbsp; ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=yellow&style=flat);![Github Actions-Ci-Cd](https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=yellow&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=green&style=flat) &nbsp;|&nbsp; ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=blue&style=flat) &nbsp;|&nbsp; ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) &nbsp;|&nbsp; ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=python&logoColor=greene&style=flat) &nbsp;|&nbsp; ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=yellow&style=flat);![Github Actions-Ci-Cd](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Github-Actions&logoColor=yellow&style=flat)
 
 <table style="width: 100%; text-align: center;">
   <tr>
