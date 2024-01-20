@@ -1,4 +1,4 @@
-<div style="width: 1000 px; height: 400 px; background-color: #f2f2f2; padding: 20 px; text-align: right;">
+<div style="width: 1000 px; height: 400 px; background-color: #f2f2f2; padding: 20 px; text-align: centre;">
 
   ### Hi there 
 
@@ -7,6 +7,10 @@
   ### Skills
   ![Python](https://img.shields.io/badge/-Python-6F111?logo=python&logoColor=green&style=flat) &nbsp;|&nbsp; ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) &nbsp;|&nbsp; ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) &nbsp;|&nbsp; ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6F111?style=flat&logoColor=white) &nbsp;|&nbsp; ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=white&style=flat) &nbsp;|&nbsp; ![GitHub Actions-CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=github-actions&logoColor=white&style=flat) &nbsp;|&nbsp; ![Generative AI](https://img.shields.io/badge/-Generative%20AI-6F111?style=flat&logo=lock&logoColor=white)
 
+</div>
+
+
+<div>
   <table style="width: 100 %; text-align: center; margin-top: 20 px;">
     <tr>
       <td style="width: 33 %;">
