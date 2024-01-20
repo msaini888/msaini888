@@ -1,11 +1,12 @@
 <div style="width: 1000px; height: 400px; background-color: #f2f2f2; padding: 20px;">
 
-### Hi there 👋
+### Hi there 
 
-I'm Mohit Saini, a passionate Data Analyst who loves to create interesting insights from huge datasets. 
+I'm Mohit Saini, an experienced Data Analyst who loves to create meaningful insights from different datasets which can strategically help organisations to optiomize their operations and enhance sales growth. 
  
  ### Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=green&style=flat) &nbsp;|&nbsp; ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=blue&style=flat) &nbsp;|&nbsp; ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) &nbsp;|&nbsp; ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=ml&logoColor=green&style=flat) &nbsp;|&nbsp; ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=yellow&style=flat);![Github Actions-Ci-Cd](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Github-Actions&logoColor=yellow&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=green&style=flat) &nbsp;|&nbsp; ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=blue&style=flat) &nbsp;|&nbsp; ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) &nbsp;|&nbsp; ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=ml&logoColor=green&style=flat) &nbsp;|&nbsp; ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=yellow&style=flat);!![GitHub Actions-CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI/CD-yellow?logo=github-actions&logoColor=white&style=flat)
+
 
 <table style="width: 100%; text-align: center;">
   <tr>
