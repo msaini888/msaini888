@@ -1,4 +1,4 @@
-<div style="width: 100 px; height: 50 px; background-color: #f2f2f2; padding: 10 px; text-align: center;">
+<div style="width: 100 px; height: 50 px; background-color: #f2f2f2; padding: 10 px; text-align: right;">
 
   ### Hi there 
 
