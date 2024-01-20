@@ -1,4 +1,4 @@
-<div style="max-width: 800px; margin: 0 auto; background-color: #f2f2f2; padding: 20px; text-align: center;">
+<div style="max-width: 800 px; margin: 0 auto; background-color: #f2f2f2; padding: 60 px; text-align: center;">
 
 ### Hi there
 
